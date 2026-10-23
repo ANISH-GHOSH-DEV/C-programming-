@@ -2,7 +2,7 @@
 intmain()
 {
 	intnum;
-	printf("entera numberttocheek":);
+	printf("entera numbert to cheek":);
 	scanf("%d",&num);
 	if(num%2==0);
 	{
